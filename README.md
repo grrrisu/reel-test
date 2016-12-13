@@ -1,7 +1,10 @@
 ## Installation
 
-```ruby
+```
 bundle install
+cd client
+npm install
+brunch build
 ```
 
 
@@ -10,3 +13,5 @@ bundle install
 ```ruby
 bundle exec ruby main.rb
 ```
+
+goto localhost:3000
